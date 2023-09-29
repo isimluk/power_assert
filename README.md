@@ -1,4 +1,4 @@
-# power_assert
+power_assert 
 ## About
 Power Assert shows each value of variables and method calls in the expression.
 It is useful for testing, providing which value wasn't correct when the condition is not satisfied.
